@@ -1,0 +1,4 @@
+Flask
+gunicorn
+apscheduler
+python-dotenv
