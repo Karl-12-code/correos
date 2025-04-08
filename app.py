@@ -8,8 +8,8 @@ from email.message import EmailMessage
 from datetime import datetime
 
 UPLOAD_FOLDER = 'uploads'
-EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS')
-EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD')
+EMAIL_ADDRESS = 'carlosroman3141@gmail.com
+EMAIL_PASSWORD = 'xwuipisdyzubddav'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
