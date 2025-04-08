@@ -9,7 +9,7 @@ from datetime import datetime
 
 UPLOAD_FOLDER = 'uploads'
 EMAIL_ADDRESS = 'carlosroman3141@gmail.com'
-EMAIL_PASSWORD = 'xwuipisdyzubddav'
+EMAIL_PASSWORD = 'ylcrdbhxbbwzfsqe'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
